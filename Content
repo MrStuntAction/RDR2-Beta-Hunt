@@ -29,7 +29,7 @@ There was an additional requirement to reach 100% completion (max out your Healt
 The Emerald Ranch general store has a full interior and mini map. 
 The cutscene when boarding the boat in "A Fine Night of Debauchery" cuts very aprubtly, almost as if there was more to it originally: https://youtu.be/8zSrcNz0psM?t=347
 In Arthur's final journal entry, he tells Rains Fall to save his son, because he lost his people. Either the beta version was for the tribe to die and the son to live, or some intern mixed the two up
-Fort Wallace was originally supposed to be in the Grizzlies East: https://i.imgur.com/6pyfl1F.jpg
+Fort Wallace was originally supposed to be in the Grizzlies East: https://i.imgur.com/6pyfl1F.jpg, https://i.imgur.com/HPnEgeu.jpg
 Up to version 1.02 "Hunted" will appear on screen like in the Gameplay Trailer when you get into a fight with bounty hunters, and in version 1.00 you lose Honor for killing them
 Arthur's VA confirmed in MomoCon 2019 that there was a cut fling between him and Abigail
 Cut ability to free roam with companions. NPCs react accordingly, saying "hey boys", "idiots" and the like. O'Driscolls shouting "I got enough bullets for all y'all!" and the Del Lobos saying "We'll kill every last one of you": https://youtu.be/HmVNWGoLQxA?t=247
@@ -38,9 +38,34 @@ Beta Arthur: https://i.imgflip.com/39g89c.jpg
 Unused Molly model for "The Gilded Cage": https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f979abd5-5482-49f1-a86f-52b8b3132f2e/ddeh60l-d4c9de75-36e5-4ffc-8e07-0216c079eed1.png/v1/fill/w_755,h_1058,q_70,strp/red_dead_redemption_2__molly_var__4_by_heliosal_ddeh60l-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTc5MiIsInBhdGgiOiJcL2ZcL2Y5NzlhYmQ1LTU0ODItNDlmMS1hODZmLTUyYjhiMzEzMmYyZVwvZGRlaDYwbC1kNGM5ZGU3NS0zNmU1LTRmZmMtOGUwNy0wMjE2YzA3OWVlZDEucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.LizC6lquZ2TQPJViNUT8dntkE4c8a-7V_jg40xI3ZX8
 Cut Fame mechanic from RDR1 and the ability to make use of a prostitute's services: https://i.imgur.com/67gzX60.png
 Cut crafting component named "Antique Brass Compass": https://youtu.be/pIqYzmGdqDc
-
-
-
+A bunch of code lines referring to cut content, the most interesting bits being:
+  0x9DEFF0D5 = Tallulah Jetty
+  0x3F13C03F = Buy Ticket to Guarma (100 Dollars)
+  0xA6074B21 = Found around the coast of Guarma. Use a long scope rifle to take down a shark of this size.
+  0x38D201E8 = El Hueco
+  0x7B4F26E0 = Good Skinned Bobcat Carcass
+  0x9AD44380 = Mule Hide Good Condition
+  0x313FF221 = Cohutta
+  0x40A785B0 = Order Chili (~1$~)
+  0x4F6460F7 = to the ~HC_~1p~~Emerald Ranch General Store~s~
+  0x4957E905 = ~z~~sl:0.0:3.7~You'll find them coming outta the Grizzlies, to Old Fort Wallace.~sl:0.2~Like I said, kill this bastard, kill him good.
+  0x87EE6D4C = ~z~I wonder why Gavin left you?
+  0x8E58867B = Having discovered the mysterious hill home, a gold-jointed bracelet and third treasure map were discovered after reaching through one of the shattered windows.
+  0x3A6D7174 = Criard Slaughterhouse
+  xB8494072 = ~z~Sisika Penitentiary – Male Wing
+  0xEEEAADB4 = ~z~Sisika Penitentiary – Female Wing
+  0x55555B8A = The dealer here in Strawberry will buy stolen horses and provide forged papers for a fee.
+  0xC8B62567 = The famed Millesani Mine in Big valley was abandoned after the Coinage Act in the 1870s favored a gold standard rather than silver. This notable outfit remembers the customary garb of the miners who frequented the saloons and shops of Strawberry between shifts.~n~
+  0x67F66119 = At Manzanita Post, the dealer will provide forged papers and buy stolen horses.
+  0x91BD7E85 = At Benedict Point, this buyer is always looking for stolen horses, and will sell forged papers to the thief.
+  0x5076D4CF = Among the shacks of Butcher's Creek, this buyer is only too keen to buy stolen horses and will sell forged papers.
+  0x7712C726 = Visit the buyer at Lagras to sell stolen horses and buy forged papers.
+  0x15483DF8 = This dealer in Valentine has a stock of forged papers, and will take stolen horses off your hands.
+  0xCB2EC84A = The dealer here in Blackwater will buy stolen horses and provide forged papers for a fee.
+  0xCA62C22E = ~z~~sl:0.0:1.6~There's a feller up near Manzanita Post~sl:0.0:1.7~with half his head missing.~sl:0.1~Ain't so pretty or smart, but he's still breathing at least.
+  0x74FA6D68 = Tiger Shark
+  0x6B4BBFA0 = Great Hammerhead Shark
+  0x6D2BBA1C = Alligator Snapping Turtle
 
 
 
