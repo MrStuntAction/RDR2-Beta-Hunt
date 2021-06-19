@@ -246,3 +246,5 @@ Text strings for loading screen tips that went unused
  LOADING_TIP_WEAPONWHEEL = Check your weapon's current condition in the Weapon Wheel
  LOADING_TIP_WHISTLEHORSE = Whistle for your horse by pressing ~INPUT_WHISTLE~. Bond with your horse to increase the range at which it will respond to your commands
  LOADING_TIP_WITNESSES = If you commit a crime in front of people, they will become witnesses and report you to the local law enforcement
+ "DEBUG::_0x9A6C65DDDBEC9C52(8, 11, "Serendipity/Grand Korrigan - You are in Free Roam and on the boat. You are not supposed to be here. To Saint Denis with you!");" points to the fact that at some point, the Serendipity boat from RDR1 existed in RDR2 alongside the Grand Korrigan from "A Fine Night of Debauchery"
+ 
